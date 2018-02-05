@@ -219,3 +219,8 @@ Markdown 语法：
 
 相关配置参考：
 https://www.haomwei.com/technology/maupassant-hexo.html
+
+源码分支：
+hexo
+网站分支：
+master
